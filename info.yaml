@@ -16,10 +16,10 @@ project: DCO
 pinout:
   # Inputs
   ui[0]: "IN0"
-  ui[1]: "IN1"
-  ui[2]: "IN2"
-  ui[3]: "IN3"
-  ui[4]: "IN4"
+  ui[1]: "S0"
+  ui[2]: "S1"
+  ui[3]: "S2"
+  ui[4]: "CLK"
   ui[5]: ""
   ui[6]: ""
   ui[7]: ""
