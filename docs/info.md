@@ -13,6 +13,7 @@ This design is targetted to be used as
 1. Ring oscillator
 2. Clock divider 
 3. Digitally controlled oscillator
+   
 1. Ring oscillator
 Five inverters are used in chain. By shorting out0 pin to in0 and clk, the design can be configured as a ring oscillator
 Frequency = 1/(5*inverter cell delay)
